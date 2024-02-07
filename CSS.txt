@@ -1,0 +1,6 @@
+CSS
+
+Id selected with #
+Only used once per page
+
+Classes start with .  so .class
